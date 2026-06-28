@@ -4,7 +4,7 @@ A simple and polished web implementation of the classic 2048 puzzle game. The pr
 
 ## Live Preview
 
-- [Open the game](https://your-username.github.io/FrontEnd_Projects_NB/)
+- [Open the game](https://chlodav.github.io/FrontEnd_Projects_NB/)
 
 ## Technologies Used
 
@@ -18,7 +18,7 @@ A simple and polished web implementation of the classic 2048 puzzle game. The pr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/FrontEnd_Projects_NB.git
+git clone https://github.com/chlodav/FrontEnd_Projects_NB.git
 cd FrontEnd_Projects_NB
 ```
 
